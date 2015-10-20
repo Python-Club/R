@@ -1,0 +1,11 @@
+Questions and Points of Interest (Discussion with Chad)
+
+1. Ratio comparison, normal distribution assumes negative infinity to infinity. Ratios are 0 to infinityàlog transform to make neg infinity to infinity.
+2. Distribution assessment, bounds, discrete. Some distributions have similar types
+3. Whether or not to log transform data then statistics, or statistics first?
+4. Student-t test compare 2 numbers, anova for multiple
+5. Tukey HSD vs. LSD
+6. Sample size limits on p-value significance, is it ok to increase sample size to make p-value significant?
+7. CO2 fixation and CO2 concentration, photosynthesis plots use glmm (generalized linear mixed model) to plot each genotype and analyze the differences.
+8. Multiple experiments: Non-independence factors
+9. Non-linear mixed models…when use them, why…?
